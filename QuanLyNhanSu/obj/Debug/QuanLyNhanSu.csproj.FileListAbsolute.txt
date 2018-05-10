@@ -1,0 +1,14 @@
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLyThongTinNhanVien.resources
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuanLyHoSo.resources
+C:\Users\Admin\Source\Repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThemHoSo.resources
